@@ -1,0 +1,10 @@
+{
+    "name": "Scraper2",
+    "description": "Esto va a hacer un scraper",
+    "version": "2.0",
+    "manifest_version": 3,
+    "action":{
+        "default_popup": "./App/index.html"
+    },
+    "permissions": ["activeTab", "scripting"]
+}
