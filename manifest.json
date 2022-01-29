@@ -1,6 +1,6 @@
 {
-    "name": "Scraper2",
-    "description": "Esto va a hacer un scraper",
+    "name": "LinkedIn Scrapper",
+    "description": "Scrapper para extraer datos de usuarios de LinkedIn",
     "version": "2.0",
     "manifest_version": 3,
     "action":{
